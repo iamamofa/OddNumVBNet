@@ -1,0 +1,17 @@
+F:\VB.NET PROJECTS\odd\OddNum\bin\Debug\net6.0-windows\OddNum.exe
+F:\VB.NET PROJECTS\odd\OddNum\bin\Debug\net6.0-windows\OddNum.deps.json
+F:\VB.NET PROJECTS\odd\OddNum\bin\Debug\net6.0-windows\OddNum.runtimeconfig.json
+F:\VB.NET PROJECTS\odd\OddNum\bin\Debug\net6.0-windows\OddNum.dll
+F:\VB.NET PROJECTS\odd\OddNum\bin\Debug\net6.0-windows\ref\OddNum.dll
+F:\VB.NET PROJECTS\odd\OddNum\bin\Debug\net6.0-windows\OddNum.pdb
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.vbproj.AssemblyReference.cache
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.Form1.resources
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.vbproj.GenerateResource.cache
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.GeneratedMSBuildEditorConfig.editorconfig
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.AssemblyInfoInputs.cache
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.AssemblyInfo.vb
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.vbproj.CoreCompileInputs.cache
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.dll
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\ref\OddNum.dll
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.pdb
+F:\VB.NET PROJECTS\odd\OddNum\obj\Debug\net6.0-windows\OddNum.genruntimeconfig.cache
